@@ -57,7 +57,8 @@ auto main ( ) -> int
 		<< iF.get ( ) << std::endl
 		<< iG.get ( ) << std::endl
 		<< iH.get ( ) << std::endl
-		<< iI.get ( ) << std::endl ;
+		<< iI.get ( ) << std::endl
+		<< std::endl ;
 	print_list ( l2 ) ;
 	print_list ( l3 ) ;
 	print_list ( l4 ) ;
