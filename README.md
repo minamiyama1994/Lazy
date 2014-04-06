@@ -8,5 +8,7 @@ Library for Lazy evaluation.
 
 Entire library is stored in the "lazy" namespace.
 
-## Reference
+## Sample
+
+Please, see [test code](https://github.com/minamiyama1994/Lazy/blob/master/test/test.cpp)
 
